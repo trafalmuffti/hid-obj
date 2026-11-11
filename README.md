@@ -3,6 +3,8 @@
 A procedurally generated, pixel-art hidden-object game that runs entirely in the browser.
 No build step, no dependencies: open `index.html` (or serve the folder with any static server).
 
+![Level 2: The Dusty Attic](docs/screenshots/level2.png)
+
 ```
 python3 -m http.server 8000   # then visit http://localhost:8000
 ```

@@ -1,0 +1,48 @@
+LEVEL 05: THE NIGHT MARKET
+==========================
+Role: High-density clutter. Teaches the player to use the list strategically.
+Difficulty: 5/10   Objects to find: 14   Suggested time: 7:00   Hints: 3, 35s recharge
+
+SCENE
+A crowded lantern-lit street market after dark. Food stalls, trinket vendors, strings of colored
+lights, hanging signs, steam, crowds of silhouetted shoppers. Very dense: ~120 background props.
+
+VISUAL / CONTRAST RULES
+- The background is intentionally busy but built from lower-saturation, lower-value shapes.
+- Targets keep a clean, closed silhouette and a distinct color, and are drawn at full
+  brightness, so they pop even in crowds.
+- Crowd silhouettes are flat dark, so targets placed near them contrast sharply.
+- Minimum target size: 4% of screen width. No target hides behind steam or text.
+
+TARGET OBJECTS
+1. Paper fish kite       - hung above a stall, orange and teal.
+2. Jade elephant         - among stone animals on a vendor's cloth.
+3. Red dumpling basket   - steamer stack at a food stall, one basket open.
+4. Blue umbrella         - on a stand among black umbrellas.
+5. Golden coin purse     - held by a silhouetted shopper.
+6. Pink lotus lantern    - in a row of round red lanterns.
+7. Green tea kettle      - on a street stove, against red and orange stalls.
+8. Yellow glove          - dropped on the cobbles near a drain.
+9. Violet silk scarf     - draped across a vendor's table of earth-tone fabrics.
+10. Silver fork          - stuck in a noodle bowl, shiny against dark broth.
+11. White rabbit mask    - on a mask stall with colorful masks.
+12. Brown teddy bear     - in a toy bin among colorful toys.
+13. Red chili string     - dangling from a stall roof among dried yellow peppers.
+14. Black cat statue     - on a shelf, bright green eyes as the identifying detail.
+
+RED HERRINGS
+- Many other lanterns (red, orange, round, square); one pink paper flower (not lotus lantern).
+- Other kites (diamond, plain), a teal paper fish on a sign.
+- Stone animals in similar greens: jade-green frog, jade bracelet.
+- Other steamer baskets, closed; red bowls.
+- Many umbrellas in blue shades, a blue tarp.
+- Other purses and wallets, golden bangles in a jewelry stall.
+- Many gloves in other colors; yellow rubber glove on the cleaning stall sign.
+- Multiple masks (rabbit, fox, cat) but only one white rabbit mask with pink ears.
+- Many cats: a real sleeping cat, a black-cat poster, a lucky cat with a raised paw.
+
+MISCLICK BEHAVIOR
+Chatter of crowd noise. No penalty. After 10 misclicks, offer a free hint.
+
+NOTES FOR BUILD
+- Provide a "zoom" pinch/scroll, 1x to 2x, so dense areas can be inspected.

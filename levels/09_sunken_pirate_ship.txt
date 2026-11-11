@@ -1,0 +1,58 @@
+LEVEL 09: THE SUNKEN PIRATE SHIP
+================================
+Role: Hard late-game level using underwater color loss, tight clutter, and look-alike sets.
+Difficulty: 8/10   Objects to find: 16   Suggested time: 9:00   Hints: 2, 50s recharge
+
+SCENE
+The wreck of a galleon on the seabed. Broken masts, barnacled cannons, treasure chests, coral,
+fish schools, anchor chains, sunken barrels, skeletons, rays of light from above.
+Blue-green cast, silt particles.
+
+VISUAL / CONTRAST RULES
+- Underwater tint reduces reds, so reds are drawn slightly brighter/more orange than in earlier levels.
+  Targets still keep a hard outline and a color unique within a 15% screen radius.
+- Light shafts brighten targets, never darken them. No fog covering any target.
+- Where a target's color is close to the water tint, its shape must be crisp and man-made.
+- Fish schools move in front of the scene but are on a layer behind targets' clickability and
+  never fully cover a target for more than 1 second.
+
+TARGET OBJECTS
+1. Gold doubloon          - half-buried in sand beside a chest.
+2. Red coral crown        - on a skull, red coral against pale bone.
+3. Silver cutlass         - stuck upright in the deck planks.
+4. Green bottle with map  - tucked into a barrel crack, scroll visible inside.
+5. Pink conch shell       - on the seabed, among white shells.
+6. Yellow pufferfish      - hiding in the cannon barrel, spines out.
+7. Purple octopus tentacle - curled around the anchor.
+8. Black spyglass         - lying on the captain's wheel, brass rings.
+9. White pearl in oyster  - open oyster among closed ones.
+10. Orange compass        - hanging from the mast, brass and orange.
+11. Brown parrot feather  - floating near the crow's nest.
+12. Blue sapphire ring    - on a skeleton finger.
+13. Gold goblet           - on a table in the captain's cabin.
+14. Teal key              - in a lock of a chest, other chests unlocked.
+15. Red anchor tattoo flag - torn pirate flag on a snagged rope.
+16. Bronze bell           - hung under the bow, half covered with coral but ringing shape visible.
+
+RED HERRINGS
+- Gold coins everywhere in the open chest (only the single half-buried doubloon outside counts).
+- Many corals in pink and red; a red starfish; a red fish.
+- Other swords: rusty sabers, silver fish shaped like blades.
+- Green bottles and seaweed; clear empty bottles.
+- Pink shells and pink sea anemones.
+- Yellow fish of other types (sea butterflies, angelfish), yellow sponge coral.
+- Purple sea urchins, purple anemone, other tentacles of an eel.
+- Black telescopes of other kinds: a black pipe, a black bone.
+- White pearls in nearby clam shells (already empty or closed), white bone, white pebbles.
+- Other brass compasses, brass lamps, brass portholes.
+- Feathers painted on a figurehead.
+- Blue gems in a necklace in a chest, blue fish.
+- Many goblets and cups of silver/pewter.
+- Many keys: rusty, iron, gold-colored; a key-shaped coral.
+- Several flags: black Jolly Roger, striped sails.
+
+MISCLICK BEHAVIOR
+Bubble pop. After 8 misclicks in a row, a hint button pulses.
+
+NOTES FOR BUILD
+- Light shafts sweep slowly. Test that no shaft or fish ever fully hides a target.

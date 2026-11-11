@@ -1,0 +1,44 @@
+LEVEL 02: THE DUSTY ATTIC
+=========================
+Role: Introduces layered clutter and shape-based searching.
+Difficulty: 2/10   Objects to find: 10   Suggested time: 5:00 (soft, no fail)   Hints: 3, 20s recharge
+
+SCENE
+A sloped-roof attic lit by a single round window and a dangling bulb.
+Trunks, covered furniture, hanging garments, a dressmaker's mannequin, boxes, a rocking horse.
+Cool gray-blue shadows with a warm yellow pool of light around the bulb.
+
+VISUAL / CONTRAST RULES
+- Background is desaturated gray-blue and brown. Targets are the only warm, saturated or
+  brightly lit items, or are placed inside the warm light pool.
+- Targets may overlap background props by up to 15% of their area but their
+  silhouette remains identifiable.
+- Light rim highlight on every target (suggests dust catching light).
+
+TARGET OBJECTS
+1. Brass trumpet          - leaning against a trunk, glinting under the bulb.
+2. Red mitten             - on a coat hanger among gray coats.
+3. Porcelain doll head    - on a shelf, white face against dark wood.
+4. Orange lantern         - hung from a rafter, brightest item on screen.
+5. Green glass bottle     - behind a bannister post, 10% overlap.
+6. Wind-up toy robot      - on the floor, tin silver and blue with red key.
+7. Gold pocket watch      - half-draped over a trunk lid, chain visible.
+8. Pink ballet slipper    - tucked in an open suitcase of gray clothes.
+9. Yellow umbrella        - hanging from a beam among black umbrellas.
+10. Teal paint tin        - on a stack of boxes, with a drip down its side.
+
+RED HERRINGS
+- A brass tuba bell and a golden candlestick (confuse with the trumpet and watch).
+- Pink and red gloves in a different drawer; one red sock (confuses with the mitten).
+- A gray toy robot head inside a box, a pile of bolts.
+- Two other porcelain doll bodies without heads (heads are decoys, not the target head).
+- Black umbrellas of identical shape; one yellow raincoat (same yellow, wrong item).
+- Several other paint tins in dull colors; one teal flowerpot.
+- A second lantern, unlit and dark, on the floor.
+
+MISCLICK BEHAVIOR
+Soft thud. Three misclicks within 5 seconds causes a brief dust-cloud flash (no penalty).
+
+NOTES FOR BUILD
+- Teach players to scan along light vs. shadow regions.
+- Lightbulb gently swings to move the shadows (cosmetic only, never hides targets).

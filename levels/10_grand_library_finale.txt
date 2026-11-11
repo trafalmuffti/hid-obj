@@ -1,0 +1,71 @@
+LEVEL 10: THE GRAND LIBRARY (FINALE)
+====================================
+Role: Capstone. Reuses motifs from levels 1 to 9 as callbacks. Rewards mastery of every skill taught.
+Difficulty: 9/10   Objects to find: 20   Suggested time: 12:00   Hints: 2, 60s recharge
+
+SCENE
+An enormous multi-floor library: balconies, rolling ladders, a glass dome, a reading hall,
+globes, statues, stained-glass windows, a fireplace, moving dust motes, a hidden-door bookcase.
+Scene is 3 screens wide and 2 tall, with scroll and zoom (1x to 2x). Warm sunlit oak with
+jewel-toned stained-glass light patches.
+
+VISUAL / CONTRAST RULES
+- Every target obeys the same readability promise as earlier levels: closed silhouette, unique
+  hue or value within local area, no more than 30% occlusion, never in full shadow.
+- Stained-glass light patches are decorative and only brighten targets.
+- Each target is a callback to a previous level, shown in the item list with a tiny level badge.
+- Targets are spread across 6 zones (each ground floor wing, mezzanine, dome, reading hall,
+  basement stairs, fireplace nook) with 3 to 4 per zone.
+
+TARGET OBJECTS (callback level in brackets)
+1.  Red teapot            [L1]  - on a reading-room tea trolley.
+2.  Yellow rubber duck    [L1]  - on a high shelf of children's books.
+3.  Brass trumpet         [L2]  - in a glass display case.
+4.  Gold coin             [L3]  - bookmark between pages of a open book.
+5.  Orange crab           [L3]  - on a globe, resting on the ocean.
+6.  Silver wand           [L4]  - propped in a vase of rolled maps.
+7.  Pink hourglass        [L4]  - on a scholar's desk.
+8.  Jade elephant         [L5]  - a bookend on a shelf.
+9.  Black cat statue      [L5]  - on top of the fireplace mantel, green eyes.
+10. Orange koi            [L6]  - swimming in an indoor fountain.
+11. Blue butterfly        [L6]  - on a stained-glass window ledge.
+12. Gold winding key      [L7]  - in the lock of the hidden-door bookcase.
+13. Red cuckoo bird       [L7]  - pops out of a small clock on the mezzanine (MOVING).
+14. Blue train ticket     [L8]  - used as a bookmark, sticking from a book.
+15. Violin case           [L8]  - leaning in the reading hall corner.
+16. Silver cutlass        [L9]  - crossed over the fireplace as decoration.
+17. White pearl           [L9]  - in a jewelry box on a display shelf.
+18. Green potion flask    [L4]  - on the alchemy shelf in the basement.
+19. Purple octopus plush  [L9]  - on a child's chair in the reading hall.
+20. Golden bound "The Hidden Book" - the final item; a gold-edged book with a glowing spine,
+                            sitting on the top shelf of the hidden-door room. It only becomes
+                            clickable after items 1 to 19 are found (it appears with a soft glow).
+
+RED HERRINGS
+- Every red teapot, red cup, red vase; red book spines (hundreds).
+- Rubber ducks printed on a poster; yellow lanterns; yellow book spines.
+- Brass instruments: a horn, a gramophone, a brass lamp.
+- Coins in a display case (behind glass) and drawings of coins in an encyclopedia.
+- Orange cats, orange vase, orange globe.
+- Many silver items: letter openers, pens, canes; a silver wand-like pointer.
+- Pink, rose and blush items: hourglass-shaped lamp, pink flowers.
+- Stone elephants of other colors; carved ebony elephant.
+- Other statues of cats: marble cat, gray stone lion with a cat-like face.
+- Fish painted on stained glass; koi-colored lanterns.
+- Butterflies in a pinned display, many colors including blue (framed, not clickable).
+- Many keys on a ring hanging in the librarian's desk; an iron key in a drawer.
+- Many clocks showing cuckoo shapes but only one with a moving bird.
+- Tickets and bookmarks in other colors.
+- Black cases of other kinds: a cello case, a briefcase.
+- Swords and swords-shaped letter openers.
+- White marbles, white eggs, pearl necklaces on a bust.
+- Other green flasks in the alchemy shelf.
+- Plush toys: a purple dragon, a blue octopus, a pink octopus.
+- Many gold-edged books; the final book has a glow and a unique spine pattern.
+
+MISCLICK BEHAVIOR
+Page-flip sound. No penalty.
+
+NOTES FOR BUILD
+- Final item reveal triggers a short celebratory sequence and credits.
+- Item 12 and 20 are in the hidden room: the bookcase door opens once item 12 is found.

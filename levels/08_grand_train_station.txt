@@ -1,0 +1,53 @@
+LEVEL 08: THE GRAND TRAIN STATION
+=================================
+Role: Wide scrolling scene with a story thread. Found items reveal a mini-mystery
+      (a lost traveler's belongings).
+Difficulty: 7/10   Objects to find: 16   Suggested time: 9:00   Hints: 2, 45s recharge
+
+SCENE
+A vast steel-and-glass station hall in 1920s style. Departure boards, a clock tower,
+steam engines, platforms, luggage carts, travelers, kiosks, pigeons. Scene is 3 screens wide.
+Gray steel, sepia stone, with a few colorful posters and signs.
+
+VISUAL / CONTRAST RULES
+- Hall is mostly gray/sepia; targets use saturated color or a distinct bright material.
+- Dense crowd, but crowd uses muted coats; none match target colors exactly.
+- 5 to 6 targets per screen section. A target may be 30% hidden behind a crowd member,
+  but the identifying feature (shape or color) stays visible.
+
+TARGET OBJECTS
+1. Red suitcase           - on a luggage cart, amid brown cases.
+2. Blue train ticket      - on the floor near a bench, white background around it.
+3. Golden pocket compass  - in the hand of a statue.
+4. Green scarf            - tied around a lamp post.
+5. Yellow hat box         - stacked among gray boxes.
+6. Silver whistle         - on the conductor's belt.
+7. Orange cat             - sleeping on a bench, stripes visible.
+8. Purple umbrella        - propped by the kiosk.
+9. White envelope w/ red seal - sticking out from a mailbox.
+10. Brown teddy bear      - on a child's lap on the platform bench.
+11. Pink newspaper        - on a seat, the only pink paper (fictional title).
+12. Black violin case     - leaning against a pillar.
+13. Teal lantern          - hung at the end of a platform.
+14. Gold watch chain      - hanging from a traveler's waistcoat.
+15. Red mitten            - on the track side, near the rails.
+16. Blue feather          - in a woman's hat in the crowd.
+
+RED HERRINGS
+- Red and maroon suitcases, a red fire bucket, red signal lamps.
+- Many tickets: white, pink, and buff; torn paper on the ground.
+- Brass compasses and clocks; statue with a gold-painted plaque.
+- Green lamp shades, green porter uniforms.
+- Yellow warning signs, yellow hat on a poster.
+- Orange tabby posters, an orange fire extinguisher, a gray cat that walks around.
+- Several umbrellas (black, gray, a purple flower print on a poster).
+- Envelopes without seals; a red seal on a document in a case.
+- Other teddy bears in a shop window display (behind glass, not clickable).
+- Violin posters; other black cases (trumpet case, doctor's bag).
+- Blue feathers painted on a poster; blue-dressed passengers.
+
+MISCLICK BEHAVIOR
+Train whistle, no penalty.
+
+NOTES FOR BUILD
+- Optional story card appears after every 4 finds, revealing a story beat.

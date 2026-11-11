@@ -1,0 +1,42 @@
+LEVEL 01: THE COZY KITCHEN
+==========================
+Role: Tutorial level. Teaches the core loop (look, find, tap).
+Difficulty: 1/10   Objects to find: 8   Suggested time: none (untimed)   Hints: unlimited, no cooldown
+
+SCENE
+A bright, tidy farmhouse kitchen in morning light. One fixed camera, no scrolling.
+Warm wood cabinets, cream walls, a checkered floor, a window over the sink showing a garden.
+Moderate clutter: about 40 background props, all large and clearly drawn.
+
+VISUAL / CONTRAST RULES FOR THIS LEVEL
+- Background palette is warm and muted (creams, tans, soft browns).
+- Every target uses a saturated color that appears nowhere else in the background
+  (teal, cherry red, sunflower yellow). Dark outline on every target.
+- No target is occluded by more than 0%. Everything is fully visible.
+- Minimum target size: 6% of screen width.
+
+TARGET OBJECTS
+1. Red teapot            - on the stove, left burner. Red against black stovetop.
+2. Yellow rubber duck    - beside the sink faucet. Yellow against white porcelain.
+3. Blue key              - hanging on a hook by the door. Blue against cream wall.
+4. Green apple           - in the fruit bowl, amid orange and yellow fruit.
+5. Purple whisk handle   - in the utensil crock with brown wooden spoons.
+6. Silver cat figurine   - on the windowsill, silhouetted against the garden.
+7. Pink cupcake          - on the cooling rack, among plain brown cookies.
+8. White egg with blue   - in an egg carton, among plain white eggs
+   polka dots              (the only decorated one).
+
+RED HERRINGS (look similar, are not targets, never clickable as targets)
+- A red coffee pot on the counter (confuses with the red teapot; different shape, has a spout lid).
+- A yellow sponge by the sink (same yellow as the duck, but rectangular).
+- A blue ceramic jug (same blue as the key).
+- Red apples and a green pear in the same bowl as the green apple.
+- A gray cat photo on the fridge (resembles the silver cat figurine).
+- Plain egg carton on the shelf with no dotted egg.
+
+MISCLICK BEHAVIOR
+Gentle: a soft "bonk" sound, no penalty, the herring wobbles to show it is just scenery.
+
+NOTES FOR BUILD
+- Item list displayed as silhouettes with labels (tutorial teaches reading the list).
+- First object found triggers a short tooltip explaining hint button.

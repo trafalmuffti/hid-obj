@@ -1,0 +1,49 @@
+LEVEL 06: THE GLASS GREENHOUSE
+==============================
+Role: Green-on-green challenge. Teaches that contrast can be shape, value or texture, not only hue.
+Difficulty: 6/10   Objects to find: 14   Suggested time: 7:00   Hints: 3, 40s recharge
+
+SCENE
+A Victorian conservatory in afternoon sun: ferns, palms, orchids, hanging baskets, wrought-iron
+benches, watering cans, misty glass panes, a pond with koi. Predominantly green.
+
+VISUAL / CONTRAST RULES
+- Because the scene is green, targets are EITHER non-green (red, orange, white, violet),
+  OR green but with a clearly different value (much lighter/darker) and a bold outline.
+- Every green target must have a recognizable man-made shape (straight edges, symmetry)
+  so it differs from organic plants.
+- Glass reflections never cover a target.
+
+TARGET OBJECTS
+1. Red watering can      - on a bench, only red item at that spot.
+2. Green glass bell jar  - over a seedling, pale green, outlined.
+3. White orchid with     - hybrid with a distinct yellow center, among pink orchids.
+   yellow center
+4. Orange koi            - in the pond, bright against dark water.
+5. Brass garden trowel   - stuck in a flowerpot of soil.
+6. Blue butterfly        - resting on a leaf (blue wings spread flat).
+7. Pink gardening gloves - hung on a trellis.
+8. Terracotta gnome      - hidden among clay pots, wearing a red hat.
+9. Silver pruning shears - on a potting table, shiny metal.
+10. Yellow seed packet   - propped against a pot, white printed label.
+11. Purple snail shell   - on a stem, spiral pattern.
+12. Black crow figurine  - perched on the top of a lamp post.
+13. Striped bumblebee    - hovering over a sunflower, yellow and black.
+14. Teal key             - hanging from a basket chain.
+
+RED HERRINGS
+- Red geraniums, red tomatoes, a red ladybug, a red flowerpot.
+- Green bottles, a green watering can in the corner, green gnome-shaped topiary.
+- Many white flowers (daisies, lilies) and a white orchid without the yellow center.
+- Orange fish painted on a tile mosaic, orange pumpkins.
+- Other garden tools: a rake, a hoe, a rusty trowel on the floor.
+- Many butterflies in other colors; a blue flower shaped like a butterfly.
+- Several terracotta items: pots, a terracotta frog.
+- Yellow flowers and a yellow flowerpot; bees on other flowers (plain, with no stripes).
+- Brass hinges and fixtures on the greenhouse door.
+
+MISCLICK BEHAVIOR
+A leaf rustle sound. No penalty.
+
+NOTES FOR BUILD
+- Colorblind-friendly mode: adds a subtle pattern/outline shape cue on targets.

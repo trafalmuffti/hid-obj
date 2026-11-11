@@ -1,0 +1,46 @@
+LEVEL 04: THE WIZARD'S STUDY
+============================
+Role: Introduces animated scenery and "decoy lookalike" pairs.
+Difficulty: 4/10   Objects to find: 12   Suggested time: 6:00   Hints: 3, 30s recharge
+
+SCENE
+A round tower study at dusk. Floor-to-ceiling bookshelves, a cauldron, a crystal ball, star charts,
+candles, a sleeping owl, floating books, a spiral staircase. Dark navy and violet environment
+lit by candle orange and magical cyan glows.
+
+VISUAL / CONTRAST RULES
+- Because the scene is dark, every target has a faint inner glow or lighter outline,
+  roughly 30% brighter than surroundings. Never rely on darkness to hide an object.
+- Targets are never in complete shadow.
+- Animated elements (floating books, flickering candles) must not move over a target
+  for more than 1 second at a time.
+
+TARGET OBJECTS
+1. Silver wand           - leaning in an umbrella stand of plain walking sticks.
+2. Green potion flask    - among rows of purple and red flasks.
+3. Open red spellbook    - on a lectern, pages showing a gold sigil.
+4. Golden key            - dangling from the owl's perch.
+5. White feather quill   - in an inkwell, beside black pens.
+6. Blue mushroom         - growing from a crack in the stone floor.
+7. Pointed hat, yellow   - on a coat hook beside navy hats.
+8. Pink hourglass        - on the desk, sand falling.
+9. Brass telescope       - aimed at the window, orange against night sky.
+10. Turquoise ring       - on a skeleton hand statue, with other dull rings.
+11. Bronze bell          - on the staircase railing.
+12. Tiny red dragon      - curled on a bookshelf among toy-sized animals.
+
+RED HERRINGS
+- Other wands: wooden twigs, a black conductor's baton, a silver spoon.
+- Many flasks in similar shapes; a green candle.
+- Other spellbooks (closed, red) and an open book of blank pages.
+- Several keys: iron, rusty, silver; a golden candlestick holder.
+- Black and gray quills, a white feather duster.
+- Red, green and brown mushrooms painted on a tapestry (not clickable targets).
+- A yellow wizard's hat painted on a portrait; a yellow lamp shade.
+- A small red fox figurine and a red salamander in a jar (resemble the dragon).
+
+MISCLICK BEHAVIOR
+Soft magical chime; a few sparkles. No penalty.
+
+NOTES FOR BUILD
+- Toggle for "reduced motion" must freeze the floating books and candle flicker.

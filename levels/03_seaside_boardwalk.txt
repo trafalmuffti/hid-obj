@@ -1,0 +1,45 @@
+LEVEL 03: SEASIDE BOARDWALK
+===========================
+Role: First wide scene. Introduces horizontal scrolling/panning.
+Difficulty: 3/10   Objects to find: 12   Suggested time: 6:00   Hints: 3, 25s recharge
+
+SCENE
+A summer boardwalk at midday: ice cream stalls, a carousel, a pier, striped beach umbrellas,
+sunbathers, seagulls, a lighthouse in the distance. Scene is 2.5 screens wide; pan by dragging.
+Sky and sea are blue; sand is pale yellow; stalls are pastel.
+
+VISUAL / CONTRAST RULES
+- Targets avoid sky/sea blue and sand yellow unless outlined heavily.
+- Each screen-width section holds 4 to 5 targets so the player never goes long without a find.
+- Sun glare is purely decorative and never overlaps a target.
+
+TARGET OBJECTS
+1. Red lifebuoy          - hung on the pier rail, red/white rings against dark planks.
+2. Green sandcastle flag - atop a sandcastle, the only green on the beach.
+3. Orange crab           - on a rock at the waterline, bright against gray stone.
+4. Purple balloon        - tied to the carousel, floating over pastel pink.
+5. Gold coin             - on the sand beside a towel, sparkle outline.
+6. Striped red snorkel   - in a bucket of toys with blue and yellow items.
+7. Pink flamingo float   - on the water, against blue waves.
+8. Brown wallet          - on a bench, beside a folded blue newspaper.
+9. Yellow banana         - on the ice cream stall counter among white scoops.
+10. Black top hat        - on a street performer's mat.
+11. Blue starfish        - in a tide pool among beige shells.
+12. Silver bicycle bell  - on a bike handlebar leaning on a fence.
+
+RED HERRINGS
+- Red and white beach ball, red umbrellas, red flag on the lighthouse.
+- Green seaweed, green bottle, green flag on another sandcastle (flag is plain, no stripe).
+- Several orange traffic cones and an orange starfish (different shape from the crab).
+- Many balloons of other colors; purple umbrella on the sand.
+- Other floats: a yellow duck float, a pink flamingo painting on a sign (not a float).
+- A second wallet-like item (a brown paperback book).
+- Gold-colored sun glare spots and a yellow fish on a sign.
+- Hats of other kinds (straw hats, caps) on sunbathers.
+
+MISCLICK BEHAVIOR
+Seagull squawk. No penalty.
+
+NOTES FOR BUILD
+- Parallax layers (sky, sea, boardwalk, foreground) for depth.
+- Targets sit on the mid-ground layer only, so parallax never moves them out of view.

@@ -1,0 +1,51 @@
+LEVEL 07: THE CLOCKMAKER'S WORKSHOP
+===================================
+Role: Introduces moving targets and timing.
+Difficulty: 6/10   Objects to find: 15   Suggested time: 8:00   Hints: 3, 40s recharge
+
+SCENE
+A cramped workshop crowded with clocks of every size, gears, springs, tools, a workbench with a
+half-built automaton, shelves of jars, pendulums swinging, a cuckoo clock. Warm amber light.
+
+VISUAL / CONTRAST RULES
+- Background is brown, bronze and amber; targets use cool or white tones, or are bright
+  enamel colors, so they separate from the metal.
+- Moving elements (pendulums, cuckoo bird) are decorative. Only 2 targets move, and each
+  stays on screen and in view at least 3 out of every 4 seconds.
+- Moving targets are marked in the list with a small "in motion" icon.
+
+TARGET OBJECTS
+1. Blue enamel clock face - on the wall, among brass and wooden faces.
+2. Red cuckoo bird        - emerges from the cuckoo clock on the hour (MOVING).
+3. Silver magnifying glass - on the bench, lens catching light.
+4. Green felt pouch       - on a hook, tied with a yellow string.
+5. White china teacup     - on a shelf among brown jars.
+6. Gold key (winding)     - in the lock of a grandfather clock.
+7. Pink gear              - a single pink-painted gear in a bin of brass gears.
+8. Purple glove           - draped on a vise.
+9. Orange mouse           - runs along the floor baseboard (MOVING), loops every 8 seconds.
+10. Black top-hat pendulum- a pendulum weight shaped like a hat among round bobs.
+11. Teal ink bottle       - at the desk edge, cork stopper.
+12. Yellow pencil         - lying on a blueprint, bright against blue paper.
+13. Glass monocle         - hanging on a chain from a shelf.
+14. Red wax seal          - on a letter on the desk.
+15. Ivory music box       - on a high shelf, small ballerina figure inside.
+
+RED HERRINGS
+- Blue and white painted plates; other clock faces with numbers in blue.
+- A red toy bird on the mantelpiece, a red bird painted on a calendar.
+- Brass magnifying frames without lenses, round mirrors, a silver spoon.
+- Many pouches in brown leather, a green wallet.
+- Teacups in other colors; white eggs in a bowl; white jugs.
+- Brass keys of the same shape, a silver key on the floor.
+- Pink erasers, pink thread spools.
+- Brown mice figurines, a gray cat statue (a real cat sleeps in a corner).
+- Black top hats on a coat stand; round brass bobs.
+- Ink bottles in black and brown; green glass vials.
+- Yellow pencils in a jar (the target is the single one lying on the blueprint).
+
+MISCLICK BEHAVIOR
+Tick sound, no penalty.
+
+NOTES FOR BUILD
+- Moving targets: clicking anywhere on the sprite counts; hitbox is enlarged by 25%.
